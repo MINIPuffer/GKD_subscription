@@ -14,7 +14,7 @@ export default defineGkdApp({
           activityIds:
             'com.dragon.read.component.audio.impl.ui.page.AudioPlayActivity',
           matches: '[id="com.dragon.read:id/e22"]',
-          snapshotUrls: 'https://i.gkd.li/snapshot/1730988480401',
+          //   snapshotUrls: 'https://i.gkd.li/snapshot/1730988480401',
         },
       ],
     },
@@ -26,13 +26,13 @@ export default defineGkdApp({
         {
           key: 0,
           matches: '[text="开启声音"][clickable=true]',
-          snapshotUrls: 'https://i.gkd.li/snapshot/1730952094725',
+          //   snapshotUrls: 'https://i.gkd.li/snapshot/1730952094725',
         },
         {
           key: 1,
           matches:
             '[text="领取成功"] +2 @com.lynx.tasm.behavior.ui.LynxFlattenUI[clickable=true]',
-          snapshotUrls: 'https://i.gkd.li/snapshot/1730985938046',
+          //   snapshotUrls: 'https://i.gkd.li/snapshot/1730985938046',
         },
       ],
     },

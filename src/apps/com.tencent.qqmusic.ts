@@ -12,7 +12,7 @@ export default defineGkdApp({
           activityIds: 'com.tencent.qqmusic.activity.AppStarterActivity',
           matches:
             '[id="android:id/content"] >4 FrameLayout[childCount=3] > FrameLayout[childCount=2][text=null][index=1] > ImageView[visibleToUser=true][childCount=0][index=1]',
-          exampleUrls: 'https://i.gkd.li/snapshot/1731050035148',
+          //   exampleUrls: 'https://i.gkd.li/snapshot/1731050035148',
         },
       ],
     },
